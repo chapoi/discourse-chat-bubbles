@@ -148,7 +148,7 @@
   }
 
   .onebox {
-    container-type: normal;
+    container-type: normal !important; //as long as the component is only on mobile, this is fine
 
     .aspect-image {
       max-width: unset;
