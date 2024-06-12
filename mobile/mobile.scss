@@ -52,7 +52,7 @@
   }
 }
 
-.chat-messages-scroll {
+.chat-messages-scroller {
   background-color: var(--bubble-bg);
   background-image: url(check-empty($background-pattern, $enable_pattern));
   background-blend-mode: var(--bubble-bg-mode);
